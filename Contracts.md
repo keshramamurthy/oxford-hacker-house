@@ -1,0 +1,1 @@
+Deployed contract on Manta Network: `0x22A2Ede8D01F9F9A9Fdd977a112B7a12880bF924`
